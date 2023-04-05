@@ -6,5 +6,5 @@ Description of the organisation (TODO).
 
 Our teams:
 
-- [DEEPS](https://github.com/orgs/ThoraxcenterBME/teams/deeps/repositories): DEEp biomarkers for Patient Survival
+- [DEEPS](https://github.com/orgs/ThoraxcenterBME/teams/deeps/repositories) (DEEp biomarkers for Patient Survival)
 
